@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\bin\Debug\net5.0\CustomArraylist.exe
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\bin\Debug\net5.0\CustomArraylist.deps.json
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\bin\Debug\net5.0\CustomArraylist.runtimeconfig.json
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\bin\Debug\net5.0\CustomArraylist.runtimeconfig.dev.json
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\bin\Debug\net5.0\CustomArraylist.dll
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\bin\Debug\net5.0\ref\CustomArraylist.dll
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\bin\Debug\net5.0\CustomArraylist.pdb
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\obj\Debug\net5.0\CustomArraylist.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\obj\Debug\net5.0\CustomArraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\obj\Debug\net5.0\CustomArraylist.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\obj\Debug\net5.0\CustomArraylist.AssemblyInfo.cs
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\obj\Debug\net5.0\CustomArraylist.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\obj\Debug\net5.0\CustomArraylist.dll
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\obj\Debug\net5.0\ref\CustomArraylist.dll
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\obj\Debug\net5.0\CustomArraylist.pdb
+C:\Users\user\source\repos\CustomArraylist\CustomArraylist\obj\Debug\net5.0\CustomArraylist.genruntimeconfig.cache
